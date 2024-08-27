@@ -1,2 +1,1 @@
-Hello, Hexlet!
-Bla bla bla
+Hello, Hexlet! How are you?
